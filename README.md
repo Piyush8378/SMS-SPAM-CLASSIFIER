@@ -29,18 +29,6 @@ The Code is written in Python 3.8.
 pip install -r requirements.txt 
 ```
 
-*To clone the repository*
-
-```
-
-
-### Run 
-
-*To Run the Application*
-
-```
-python app.py
-```
 
 
 
